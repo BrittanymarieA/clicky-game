@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.pinimg.com/originals/da/d9/25/dad925d198f59687d371d16f749dbc5a.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://i.pinimg.com/originals/55/b5/c0/55b5c02e1fad7e8e1780e90308a1aa6f.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://ih0.redbubble.net/image.53878259.0369/mp,550x550,matte,ffffff,t.3u2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/81377f63-0d4e-425e-a07e-ea30c24fa64a/dag1vl6-2627ce8b-d88f-4873-bff6-088d18010f42.png/v1/fill/w_723,h_1106,strp/maes_hughes_by_suka_chan92_dag1vl6-pre.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://orig00.deviantart.net/41d2/f/2010/346/6/9/chibi_ling_by_nuhfanik-d34ruri.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://i.pinimg.com/originals/7b/6d/ba/7b6dba1656b0247fddfee1ec21ea097a.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://i.pinimg.com/originals/6d/50/b3/6d50b37036f524800b63b423b2d475df.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://i.pinimg.com/originals/4c/52/51/4c5251a9328152f4764240962e7c53aa.jpg",
+    "clicked": false
+  }
+]
